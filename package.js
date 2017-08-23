@@ -1,7 +1,7 @@
 Package.describe({
     name: 'steedos:fullcalendar',
     summary: "Full-sized drag & drop event calendar (jQuery plugin)",
-    version: "3.4.0",
+    version: "3.4.0_1",
     git: "https://github.com/steedos/fullcalendar/tree/fix-zoom"
 });
 
